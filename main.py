@@ -242,7 +242,7 @@ def main(argv):
 
 
     model_ft = train_model(model_ft, criterion, optimizer_ft, exp_lr_scheduler,
-                        num_epochs=2)
+                        num_epochs=10)
 
 
 

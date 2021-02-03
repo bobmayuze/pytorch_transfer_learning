@@ -13,3 +13,5 @@ Run the program
 ```shell
 $ python hol-transfer_learning_tutorial.py -i <input> -o <output>
 ```
+
+python /root/data/nas/yuze/hol-transfer_learning_tutorial.py -i /root/data/nas/yuze/input_data -o /root/data/nas/yuze/output
